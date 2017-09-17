@@ -1,0 +1,23 @@
+{
+  "name": "hellojs-s03e03",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emanuelecomp/hellojs-s03e03.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emanuelecomp/hellojs-s03e03/issues"
+  },
+  "homepage": "https://github.com/emanuelecomp/hellojs-s03e03#readme",
+  "dependencies": {
+    "knex": "^0.13.0",
+    "sqlite3": "^3.1.11"
+  }
+}
